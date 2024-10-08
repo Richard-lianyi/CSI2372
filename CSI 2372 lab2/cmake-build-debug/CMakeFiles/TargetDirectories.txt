@@ -1,0 +1,3 @@
+C:/Users/liany/OneDrive/Desktop/CSI 2372 lab2/cmake-build-debug/CMakeFiles/CSI_2372_lab2.dir
+C:/Users/liany/OneDrive/Desktop/CSI 2372 lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liany/OneDrive/Desktop/CSI 2372 lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
